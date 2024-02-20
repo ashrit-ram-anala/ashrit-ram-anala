@@ -1,8 +1,10 @@
 ### <h1 align="center">Hi 👋 I'm Ashrit</h1>
 
+# <h2>🚀 What I'm Working On</h2>
+
 Exploring Machine Learning and Working with Databases<br>
 
-## 🌐 Connect With Me:
+# 🌐 Connect With Me:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
 
 # 💻 Tech Stack:

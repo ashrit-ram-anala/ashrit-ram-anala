@@ -1,4 +1,4 @@
-### Hi 👋 I'm Ashrit
+### <h1 style="align-text:center;">Hi 👋 I'm Ashrit</h1>
 
 Exploring Machine Learning and Working with Databases<br>
 

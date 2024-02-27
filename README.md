@@ -2,7 +2,7 @@
 
 # <h2>🚀 What I'm Working On</h2>
 
-Exploring Machine Learning and Working with Databases<br>
+Exploring Machine Learning, LLMs, and database design<br>
 
 # 🌐 Connect With Me:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)

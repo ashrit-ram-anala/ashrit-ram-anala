@@ -4,8 +4,8 @@
 
 Exploring Machine Learning, LLMs, and database design<br>
 
-# 🌐 Connect With Me
-<a href="https://ashrit-ram-anala.github.io/Portfolio-Website" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+# 🌐 Connect With Me 
+<a href="https://www.linkedin.com/in/ashrit-ram-anala-6a73761b7/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 <a href="mailto:ashritramanala@yahoo.com" target="_blank">![Email_Me](https://img.shields.io/badge/email-720e9e?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://ashrit-ram-anala.github.io/Portfolio-Website" target="_blank">
 ![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=blue)</a>

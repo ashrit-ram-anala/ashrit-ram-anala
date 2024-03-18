@@ -18,6 +18,8 @@ Exploring Machine Learning, LLMs, and database design<br>
 <br>
 
 <a href="https://leetcode.com/AshritRAnala/">![Leetcode](https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=FFA116)</a>
+<a href="https://www.hackerrank.com/profile/ashritramanala">![HackerRank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=HackerRank&logoColor=2EC866)</a>
+
 
 </details>
 

@@ -35,5 +35,4 @@ Exploring Machine Learning, LLMs, and database design<br>
 ###
 ![](https://komarev.com/ghpvc/?username=ashrit-ram-anala)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

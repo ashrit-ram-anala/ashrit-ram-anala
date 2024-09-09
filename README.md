@@ -2,7 +2,7 @@
 
 # 🚀 What I'm Working On
 
-Exploring Machine Learning, LLMs, and database design<br>
+Exploring Machine Learning, LLMs, and databases<br>
 
 # 🌐 Connect With Me 
 <a href="https://www.linkedin.com/in/ashrit-ram-anala-6a73761b7/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 

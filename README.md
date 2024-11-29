@@ -6,9 +6,9 @@
 
 ### ```🌐 Connect With Me ```
 
-<a href="https://www.linkedin.com/in/ashritramanala/" target="_blank">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-<a href="mailto:ashritramanala@yahoo.com" target="_blank">[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
-<a href="https://www.ashrit-portfolio.vercel.app/" target="_blank">[![My Skills](https://skillicons.dev/icons?i=devto)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashritramanala/)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:ashritramanala@yahoo.com)
+[![My Skills](https://skillicons.dev/icons?i=devto)](https://ashrit-portfolio.vercel.app/)
 
 ### ```📦 Toolbox``` 
 

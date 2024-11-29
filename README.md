@@ -16,7 +16,7 @@
 
 ### ```🎷 Currently Listening```
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h63k3lvoyne3svlb3fnxgzmoc&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=39db54&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=h63k3lvoyne3svlb3fnxgzmoc&redirect=false)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h63k3lvoyne3svlb3fnxgzmoc&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=39db54&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=h63k3lvoyne3svlb3fnxgzmoc&redirect=true)
 
 ![](https://komarev.com/ghpvc/?username=ashrit-ram-anala)
 

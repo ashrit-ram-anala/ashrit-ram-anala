@@ -25,7 +25,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           output_path: output/output.png
           command: "theme"
-          argument: "github"  # Change to other themes if needed (e.g., planet)
+          argument: "github-nograss"
 
       - name: Push output image to output branch
         uses: crazy-max/ghaction-github-pages@v4

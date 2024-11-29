@@ -18,10 +18,11 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h63k3lvoyne3svlb3fnxgzmoc&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=39db54&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=h63k3lvoyne3svlb3fnxgzmoc&redirect=true)
 
+<!---
 ### ```🍀 My 3D Activity```
 
 ![GitHub Contributions as 3D Grass](https://raw.githubusercontent.com/ashrit-ram-anala/ashrit-ram-anala/output/output.png)
 
 <br>
-
+-->
 ![](https://komarev.com/ghpvc/?username=ashrit-ram-anala)

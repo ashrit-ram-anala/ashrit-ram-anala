@@ -2,7 +2,7 @@
 
 ### ```🤔 What I'm Working On```
 
-<h4>Exploring Machine Learning, Full Stack, and Authorization Through JWT | Dev for <a href="https://fostersource.org/">Foster Source</a> @ <a href="https://github.com/ChangePlusPlusVandy">ChangePlusPlusVandy</a> </h4>
+<h4>Exploring Machine Learning, Full Stack, and Authorization Through JWT | Dev For <a href="https://fostersource.org/">Foster Source</a> @ <a href="https://github.com/ChangePlusPlusVandy">ChangePlusPlusVandy</a> </h4>
 
 ### ```🌐 Connect With Me ```
 

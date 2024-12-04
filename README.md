@@ -1,6 +1,6 @@
 # <h1 align="center">``` Hi 👋 I'm Ashrit ```</h1>
 
-### ```🤔 What I'm Working On```
+### ```🤔 What I'm Working On ```
 
 <h4>Exploring Machine Learning, Full Stack, and Authorization Through JWT | Dev For <a href="https://fostersource.org/">Foster Source</a> @ <a href="https://github.com/ChangePlusPlusVandy">ChangePlusPlusVandy</a> </h4>
 
@@ -12,11 +12,11 @@
 
 <!--- <img src="https://github.com/user-attachments/assets/db9c45b2-a334-409c-afc4-bef66ac2f5c3" width="6.5%" height="6.5%"> --->
 
-### ```📦 Toolbox``` 
+### ```📦 Toolbox ``` 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,r,react,nextjs,nodejs,express,vite,spring,flask,mongodb,firebase,postgres,docker,sklearn,tailwind,jest,postman,git,vercel,figma)](https://skillicons.dev)
 
-### ```🎷 Currently Listening```
+### ```🎷 Currently Listening ```
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=h63k3lvoyne3svlb3fnxgzmoc&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=39db54&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=h63k3lvoyne3svlb3fnxgzmoc&redirect=true)
 

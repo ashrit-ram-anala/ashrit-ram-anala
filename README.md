@@ -10,8 +10,6 @@
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:ashritramanala@yahoo.com)
 [![My Skills](https://skillicons.dev/icons?i=devto)](https://ashrit-portfolio.vercel.app/)
 
-<!--- <img src="https://github.com/user-attachments/assets/db9c45b2-a334-409c-afc4-bef66ac2f5c3" width="6.5%" height="6.5%"> --->
-
 ### ```📦 Toolbox ``` 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,r,react,nextjs,nodejs,express,vite,spring,flask,mongodb,firebase,postgres,docker,sklearn,tailwind,jest,postman,git,vercel,figma)](https://skillicons.dev)

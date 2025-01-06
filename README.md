@@ -22,4 +22,4 @@
 
 ![](https://raw.githubusercontent.com/ashrit-ram-anala/ashrit-ram-anala/output/output.png)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashrit-ram-anala" alt="ashrit-ram-anala" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashrit-ram-anala" alt="ashrit-ram-anala" /></p>

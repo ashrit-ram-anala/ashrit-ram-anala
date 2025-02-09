@@ -10,7 +10,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ashritramanala/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:ashritramanala@yahoo.com)
-[![My Skills](https://skillicons.dev/icons?i=devto)](https://ashrit.vercel.app/portfolio/)
 
 ### ```📦 Toolbox ``` 
 

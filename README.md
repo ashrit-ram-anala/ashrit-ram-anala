@@ -4,7 +4,7 @@
 
 ### ```🤔 What I'm Working On ```
 
-<h4>Exploring Machine Learning, Full Stack, and Authorization Through JWT | Summer 2025 SWE Intern @ <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjC4ajAy8KLAxUqZUcBHYq_G_4YABAAGgJxdQ&co=1&ase=2&gclid=CjwKCAiAzba9BhBhEiwA7glbasJsfltiXfY_9dT8Yp4vrrBuimBllc96HQYCWb0eDtRJBHWXtCx7sRoC9aQQAvD_BwE&ohost=www.google.com&cid=CAESVeD2DDcILmbWe4oRbO9ofj7khM11RncW1It8Lx7M_UYj-P2ygz88Ns7kDM_WVCjVSPYObC1f_4bNTPKww3NtfScEkOeLtoJ1uVAuY6W6KZPpf5Kic44&sig=AOD64_3JIVROsm7sPmvMakzpPF0XBmFT0g&q&nis=4&adurl&ved=2ahUKEwi8iaLAy8KLAxUQF2IAHWRoJ9MQ0Qx6BAgIEAE">Fidelity Investments</a> | Dev For <a href="https://fostersource.org/">Foster Source</a> & <a href="https://github.com/ChangePlusPlusVandy">ChangePlusPlusVandy</a> </h3>
+<h4>Exploring Machine Learning, Full Stack, and Authorization Through JWT | Dev For <a href="https://fostersource.org/">Foster Source</a> & <a href="https://github.com/ChangePlusPlusVandy">ChangePlusPlusVandy</a> </h3>
 
 ### ```🌐 Connect With Me ```
 

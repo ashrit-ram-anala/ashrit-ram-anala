@@ -13,7 +13,7 @@
 
 ### ```📦 Toolbox ``` 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,cpp,r,react,nextjs,nodejs,express,vite,spring,flask,mongodb,firebase,mysql,tailwind,jest,postman,git,vercel,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,cpp,r,angular,react,nextjs,nodejs,express,vite,spring,flask,aws,mongodb,firebase,dynamodb,kubernetes,mysql,tailwind,jest,postman,git,vercel,figma)](https://skillicons.dev)
 
 ### ```🎷 Currently Listening ```
 

@@ -4,7 +4,7 @@
 
 ### ```🤔 What I'm Working On ```
 
-<h4>Exploring Machine Learning, Full Stack, and Spring Boot | SWE Intern @ <a href="https://github.com/fidelity">Fidelity Investments</a> & Dev @ <a href="https://github.com/ChangePlusPlusVandy">ChangePlusPlusVandy</a> </h3>
+<h4>Exploring Machine Learning, Full Stack, and Spring Boot
 
 ### ```🌐 Connect With Me ```
 

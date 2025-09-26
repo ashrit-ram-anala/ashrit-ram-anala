@@ -1,7 +1,5 @@
 # <h1 align="center">``` Hi 👋 I'm Ashrit ```</h1>
 
-<h2 align="center"><a href = "https://ashrit.vercel.app/portfolio" align="center">Visit My Portfolio</a></h2>
-
 ### ```🤔 What I'm Working On ```
 
 <h4>Exploring Machine Learning, Full Stack, and Spring Boot

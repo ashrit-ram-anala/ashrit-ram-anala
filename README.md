@@ -2,7 +2,7 @@
 
 ### ```🤔 What I'm Working On ```
 
-<h4>Exploring Machine Learning, Full Stack, and Spring Boot
+<h4>Exploring System Design, Machine Learning
 
 ### ```🌐 Connect With Me ```
 

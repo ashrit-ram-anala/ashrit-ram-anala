@@ -2,7 +2,7 @@
 
 ### ```🤔 Working On ```
 
-<h4>Exploring System Design, Machine Learning, Backend Development</h4>
+<h4>Exploring System Design & Agent Development</h4>
 
 ### ```🌐 Connect ```
 
